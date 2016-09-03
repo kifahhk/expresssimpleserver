@@ -1,0 +1,25 @@
+{
+  "name": "expresssimpleserver",
+  "version": "1.0.0",
+  "description": "Simple Express Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kifahhk/expresssimpleserver.git"
+  },
+  "author": "Kify",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "jade": "1.11.0",
+    "nodemailer": "2.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kifahhk/expresssimpleserver/issues"
+  },
+  "homepage": "https://github.com/kifahhk/expresssimpleserver#readme"
+}
